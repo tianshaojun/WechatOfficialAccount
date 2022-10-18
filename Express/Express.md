@@ -35,6 +35,21 @@ localhost:3000
 
 ## 四、mongoose模块的连接与使用
 
+1.安装mongoose模块
+
+2.使用mongoose.connect()方法连接数据库
+
+3.使用mongoose.Schema 与 mongoose.model结合，创建数据模型对象
+
+4.通过实例化数据模型对象并save的方式，将新数据存储至数据库
+
+
+## 五、新浪云部署服务
+
+
+
+
+
 
 
 
